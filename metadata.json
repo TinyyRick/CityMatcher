@@ -1,0 +1,5 @@
+{
+  "name": "City Matcher",
+  "description": "A personality test to find your ideal city in China based on various metrics.",
+  "requestFramePermissions": []
+}
